@@ -4,9 +4,13 @@
 
 ## 当前词库说明
 
-`src/data/cet6_words.json` 目前收录 **115 条示例词**，供完整功能运行和验证。它**不是官方完整六级词表**。部分示例词尚未校对音标，`phonetic` 留空；例句是基础示例，正式长期使用前建议换成经过校对、授权的完整词库。界面中的词库总数来自 JSON 的实际条数，不会显示虚构的 5000+ 数量。
+`src/data/cet6_words.json` 收录 **5,357 条词目**：覆盖 [CETVocabulary](https://github.com/exam-data/CETVocabulary) 按《全国大学英语四、六级考试大纲（2016 年修订版）》整理的全部 5,278 条词目（其中 1,253 条标记为六级），另保留原有 115 条示例词中不在该词表的 79 条。词目按“原有词汇 → 六级标记词 → 其余大纲词汇”排列，原有词汇的 `id` 和位置均未改变，因此旧学习记录仍对应原来的词。词库属于第三方整理数据，并非考试主管机构发布的官方应用。
 
-词库文件是 JSON 数组。每条记录包含：`id`（唯一整数）、`word`、`phonetic`、`meaning`、`partOfSpeech`、`example`、`exampleTranslation`。替换时保持这些字段、唯一 `id`，并至少保留 4 种不同释义；100 词考试需要至少 100 个不同单词。不要随意改变已使用单词的 `id`，否则旧学习记录会指向新单词。替换文件后重新构建、发布，PWA 会更新缓存。请自行确认新词库的版权或授权。
+中文释义取自 CETVocabulary；新增词目的音标和部分词性取自 [ECDICT](https://github.com/skywind3000/ECDICT)。目前 5,200 条有音标、4,642 条有词性；没有可靠数据的字段留空。新增词目暂没有经校对的例句，界面会自动隐藏空例句。界面中的词库总数始终来自 JSON 的实际条数。
+
+词库文件是 JSON 数组。每条记录包含：`id`（唯一整数）、`word`、`phonetic`、`meaning`、`partOfSpeech`、`example`、`exampleTranslation`。扩充词库时不要改变已有词目的 `id`，否则旧学习记录会指向新单词。重新构建、发布后，PWA 会更新缓存。
+
+数据来源和许可：CETVocabulary 的词表采用 [CC BY-NC-SA 4.0](third_party_licenses/CETVocabulary-LICENSE.txt)，ECDICT 采用 [MIT](third_party_licenses/ECDICT-LICENSE.txt)。本项目对前者的筛选、合并和字段转换数据按 CC BY-NC-SA 4.0 共享，仅供非商业使用；音标和词性补充保留 ECDICT 的 MIT 许可声明。导入时使用的上游版本分别是 [CETVocabulary `7f21d0d`](https://github.com/exam-data/CETVocabulary/tree/7f21d0d9ad93c16a17849a24ccc4046e0f64c4af) 和 [ECDICT `82c9872`](https://github.com/skywind3000/ECDICT/tree/82c9872576b23118d7c42e920c11beb77f510ae2)。转换脚本在 `scripts/import-vocabulary.mjs`，下载上游 `cet_full_list.json` 为 `cet_source.json`、`ecdict.csv` 为 `ecdict_source.csv` 后可重新运行。两份原始大文件不随项目发布。
 
 ## 功能
 

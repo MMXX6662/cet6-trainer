@@ -3,3 +3,6 @@ dist/
 .vite/
 *.local
 tsconfig.tsbuildinfo
+cet_source.json
+ecdict_source.csv
+ecdict_mini.csv
