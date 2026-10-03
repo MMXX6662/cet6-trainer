@@ -1,0 +1,1037 @@
+[
+  {
+    "id": 1,
+    "word": "abundance",
+    "phonetic": "",
+    "meaning": "丰富；充裕",
+    "partOfSpeech": "n.",
+    "example": "The region has an abundance of natural resources.",
+    "exampleTranslation": "该地区拥有丰富的自然资源。"
+  },
+  {
+    "id": 2,
+    "word": "accuracy",
+    "phonetic": "",
+    "meaning": "准确性",
+    "partOfSpeech": "n.",
+    "example": "Accuracy matters when reporting scientific results.",
+    "exampleTranslation": "报告科学结果时，准确性很重要。"
+  },
+  {
+    "id": 3,
+    "word": "adaptation",
+    "phonetic": "",
+    "meaning": "适应；改编",
+    "partOfSpeech": "n.",
+    "example": "Adaptation to a new environment takes time.",
+    "exampleTranslation": "适应新环境需要时间。"
+  },
+  {
+    "id": 4,
+    "word": "administration",
+    "phonetic": "",
+    "meaning": "管理；行政部门",
+    "partOfSpeech": "n.",
+    "example": "The administration announced a new policy.",
+    "exampleTranslation": "管理部门宣布了一项新政策。"
+  },
+  {
+    "id": 5,
+    "word": "advantage",
+    "phonetic": "",
+    "meaning": "优势；有利条件",
+    "partOfSpeech": "n.",
+    "example": "Experience gives her an advantage in the interview.",
+    "exampleTranslation": "经验让她在面试中占有优势。"
+  },
+  {
+    "id": 6,
+    "word": "adversity",
+    "phonetic": "",
+    "meaning": "逆境；不幸",
+    "partOfSpeech": "n.",
+    "example": "She remained hopeful in the face of adversity.",
+    "exampleTranslation": "面对逆境，她仍保持希望。"
+  },
+  {
+    "id": 7,
+    "word": "advocacy",
+    "phonetic": "",
+    "meaning": "拥护；倡导",
+    "partOfSpeech": "n.",
+    "example": "Her advocacy helped change the law.",
+    "exampleTranslation": "她的倡导促成了法律的改变。"
+  },
+  {
+    "id": 8,
+    "word": "aggression",
+    "phonetic": "",
+    "meaning": "侵略；攻击性",
+    "partOfSpeech": "n.",
+    "example": "The treaty aims to prevent military aggression.",
+    "exampleTranslation": "该条约旨在防止军事侵略。"
+  },
+  {
+    "id": 9,
+    "word": "ambiguity",
+    "phonetic": "",
+    "meaning": "模糊；歧义",
+    "partOfSpeech": "n.",
+    "example": "The wording creates ambiguity in the contract.",
+    "exampleTranslation": "这一措辞使合同产生歧义。"
+  },
+  {
+    "id": 10,
+    "word": "ambition",
+    "phonetic": "",
+    "meaning": "雄心；抱负",
+    "partOfSpeech": "n.",
+    "example": "His ambition is to become a researcher.",
+    "exampleTranslation": "他的志向是成为一名研究员。"
+  },
+  {
+    "id": 11,
+    "word": "analysis",
+    "phonetic": "",
+    "meaning": "分析",
+    "partOfSpeech": "n.",
+    "example": "The analysis revealed a clear pattern.",
+    "exampleTranslation": "分析揭示了一个清晰的规律。"
+  },
+  {
+    "id": 12,
+    "word": "anxiety",
+    "phonetic": "",
+    "meaning": "焦虑；担忧",
+    "partOfSpeech": "n.",
+    "example": "Many students feel anxiety before an exam.",
+    "exampleTranslation": "许多学生在考试前感到焦虑。"
+  },
+  {
+    "id": 13,
+    "word": "anticipation",
+    "phonetic": "",
+    "meaning": "预期；期待",
+    "partOfSpeech": "n.",
+    "example": "There was great anticipation before the announcement.",
+    "exampleTranslation": "公告发布前，人们充满期待。"
+  },
+  {
+    "id": 14,
+    "word": "appreciation",
+    "phonetic": "",
+    "meaning": "欣赏；感激",
+    "partOfSpeech": "n.",
+    "example": "She expressed appreciation for their support.",
+    "exampleTranslation": "她对他们的支持表示感谢。"
+  },
+  {
+    "id": 15,
+    "word": "approach",
+    "phonetic": "",
+    "meaning": "方法；途径",
+    "partOfSpeech": "n.",
+    "example": "We need a different approach to this problem.",
+    "exampleTranslation": "我们需要用不同的方法解决这个问题。"
+  },
+  {
+    "id": 16,
+    "word": "approval",
+    "phonetic": "",
+    "meaning": "赞成；批准",
+    "partOfSpeech": "n.",
+    "example": "The plan requires official approval.",
+    "exampleTranslation": "这项计划需要正式批准。"
+  },
+  {
+    "id": 17,
+    "word": "argument",
+    "phonetic": "",
+    "meaning": "论点；争论",
+    "partOfSpeech": "n.",
+    "example": "Her argument is supported by evidence.",
+    "exampleTranslation": "她的论点有证据支持。"
+  },
+  {
+    "id": 18,
+    "word": "assumption",
+    "phonetic": "",
+    "meaning": "假设",
+    "partOfSpeech": "n.",
+    "example": "The conclusion rests on a false assumption.",
+    "exampleTranslation": "这一结论建立在错误的假设之上。"
+  },
+  {
+    "id": 19,
+    "word": "assurance",
+    "phonetic": "",
+    "meaning": "保证；信心",
+    "partOfSpeech": "n.",
+    "example": "They gave us assurance that the data was safe.",
+    "exampleTranslation": "他们向我们保证数据是安全的。"
+  },
+  {
+    "id": 20,
+    "word": "atmosphere",
+    "phonetic": "",
+    "meaning": "气氛；大气",
+    "partOfSpeech": "n.",
+    "example": "The classroom had a relaxed atmosphere.",
+    "exampleTranslation": "教室里气氛轻松。"
+  },
+  {
+    "id": 21,
+    "word": "attribute",
+    "phonetic": "",
+    "meaning": "属性；特征",
+    "partOfSpeech": "n.",
+    "example": "Patience is an important attribute of a teacher.",
+    "exampleTranslation": "耐心是教师的重要品质。"
+  },
+  {
+    "id": 22,
+    "word": "authority",
+    "phonetic": "",
+    "meaning": "权威；当局",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of authority.",
+    "exampleTranslation": "这篇文章探讨了权威这一概念。"
+  },
+  {
+    "id": 23,
+    "word": "awareness",
+    "phonetic": "",
+    "meaning": "意识；认识",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of awareness.",
+    "exampleTranslation": "这篇文章探讨了意识这一概念。"
+  },
+  {
+    "id": 24,
+    "word": "barrier",
+    "phonetic": "",
+    "meaning": "障碍；屏障",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of barrier.",
+    "exampleTranslation": "这篇文章探讨了障碍这一概念。"
+  },
+  {
+    "id": 25,
+    "word": "benefit",
+    "phonetic": "",
+    "meaning": "益处；好处",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of benefit.",
+    "exampleTranslation": "这篇文章探讨了益处这一概念。"
+  },
+  {
+    "id": 26,
+    "word": "bias",
+    "phonetic": "",
+    "meaning": "偏见；倾向",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of bias.",
+    "exampleTranslation": "这篇文章探讨了偏见这一概念。"
+  },
+  {
+    "id": 27,
+    "word": "capacity",
+    "phonetic": "",
+    "meaning": "能力；容量",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of capacity.",
+    "exampleTranslation": "这篇文章探讨了能力这一概念。"
+  },
+  {
+    "id": 28,
+    "word": "category",
+    "phonetic": "",
+    "meaning": "类别",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of category.",
+    "exampleTranslation": "这篇文章探讨了类别这一概念。"
+  },
+  {
+    "id": 29,
+    "word": "challenge",
+    "phonetic": "",
+    "meaning": "挑战",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of challenge.",
+    "exampleTranslation": "这篇文章探讨了挑战这一概念。"
+  },
+  {
+    "id": 30,
+    "word": "circumstance",
+    "phonetic": "",
+    "meaning": "情况；环境",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of circumstance.",
+    "exampleTranslation": "这篇文章探讨了情况这一概念。"
+  },
+  {
+    "id": 31,
+    "word": "clarity",
+    "phonetic": "",
+    "meaning": "清晰；明确",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of clarity.",
+    "exampleTranslation": "这篇文章探讨了清晰这一概念。"
+  },
+  {
+    "id": 32,
+    "word": "collaboration",
+    "phonetic": "",
+    "meaning": "合作",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of collaboration.",
+    "exampleTranslation": "这篇文章探讨了合作这一概念。"
+  },
+  {
+    "id": 33,
+    "word": "commitment",
+    "phonetic": "",
+    "meaning": "承诺；投入",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of commitment.",
+    "exampleTranslation": "这篇文章探讨了承诺这一概念。"
+  },
+  {
+    "id": 34,
+    "word": "comparison",
+    "phonetic": "",
+    "meaning": "比较",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of comparison.",
+    "exampleTranslation": "这篇文章探讨了比较这一概念。"
+  },
+  {
+    "id": 35,
+    "word": "competence",
+    "phonetic": "",
+    "meaning": "能力；胜任力",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of competence.",
+    "exampleTranslation": "这篇文章探讨了能力这一概念。"
+  },
+  {
+    "id": 36,
+    "word": "complexity",
+    "phonetic": "",
+    "meaning": "复杂性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of complexity.",
+    "exampleTranslation": "这篇文章探讨了复杂性这一概念。"
+  },
+  {
+    "id": 37,
+    "word": "component",
+    "phonetic": "",
+    "meaning": "组成部分",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of component.",
+    "exampleTranslation": "这篇文章探讨了组成部分这一概念。"
+  },
+  {
+    "id": 38,
+    "word": "concentration",
+    "phonetic": "",
+    "meaning": "专注；浓度",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of concentration.",
+    "exampleTranslation": "这篇文章探讨了专注这一概念。"
+  },
+  {
+    "id": 39,
+    "word": "conclusion",
+    "phonetic": "",
+    "meaning": "结论",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of conclusion.",
+    "exampleTranslation": "这篇文章探讨了结论这一概念。"
+  },
+  {
+    "id": 40,
+    "word": "confidence",
+    "phonetic": "",
+    "meaning": "信心",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of confidence.",
+    "exampleTranslation": "这篇文章探讨了信心这一概念。"
+  },
+  {
+    "id": 41,
+    "word": "conflict",
+    "phonetic": "",
+    "meaning": "冲突；矛盾",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of conflict.",
+    "exampleTranslation": "这篇文章探讨了冲突这一概念。"
+  },
+  {
+    "id": 42,
+    "word": "consequence",
+    "phonetic": "",
+    "meaning": "后果；结果",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of consequence.",
+    "exampleTranslation": "这篇文章探讨了后果这一概念。"
+  },
+  {
+    "id": 43,
+    "word": "consistency",
+    "phonetic": "",
+    "meaning": "一致性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of consistency.",
+    "exampleTranslation": "这篇文章探讨了一致性这一概念。"
+  },
+  {
+    "id": 44,
+    "word": "constraint",
+    "phonetic": "",
+    "meaning": "限制；约束",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of constraint.",
+    "exampleTranslation": "这篇文章探讨了限制这一概念。"
+  },
+  {
+    "id": 45,
+    "word": "contribution",
+    "phonetic": "",
+    "meaning": "贡献",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of contribution.",
+    "exampleTranslation": "这篇文章探讨了贡献这一概念。"
+  },
+  {
+    "id": 46,
+    "word": "controversy",
+    "phonetic": "",
+    "meaning": "争议",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of controversy.",
+    "exampleTranslation": "这篇文章探讨了争议这一概念。"
+  },
+  {
+    "id": 47,
+    "word": "convention",
+    "phonetic": "",
+    "meaning": "惯例；大会",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of convention.",
+    "exampleTranslation": "这篇文章探讨了惯例这一概念。"
+  },
+  {
+    "id": 48,
+    "word": "cooperation",
+    "phonetic": "",
+    "meaning": "合作",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of cooperation.",
+    "exampleTranslation": "这篇文章探讨了合作这一概念。"
+  },
+  {
+    "id": 49,
+    "word": "coordination",
+    "phonetic": "",
+    "meaning": "协调",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of coordination.",
+    "exampleTranslation": "这篇文章探讨了协调这一概念。"
+  },
+  {
+    "id": 50,
+    "word": "criterion",
+    "phonetic": "",
+    "meaning": "标准；准则",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of criterion.",
+    "exampleTranslation": "这篇文章探讨了标准这一概念。"
+  },
+  {
+    "id": 51,
+    "word": "criticism",
+    "phonetic": "",
+    "meaning": "批评；评论",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of criticism.",
+    "exampleTranslation": "这篇文章探讨了批评这一概念。"
+  },
+  {
+    "id": 52,
+    "word": "curiosity",
+    "phonetic": "",
+    "meaning": "好奇心",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of curiosity.",
+    "exampleTranslation": "这篇文章探讨了好奇心这一概念。"
+  },
+  {
+    "id": 53,
+    "word": "deficiency",
+    "phonetic": "",
+    "meaning": "缺乏；不足",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of deficiency.",
+    "exampleTranslation": "这篇文章探讨了缺乏这一概念。"
+  },
+  {
+    "id": 54,
+    "word": "demonstration",
+    "phonetic": "",
+    "meaning": "示范；证明",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of demonstration.",
+    "exampleTranslation": "这篇文章探讨了示范这一概念。"
+  },
+  {
+    "id": 55,
+    "word": "dependence",
+    "phonetic": "",
+    "meaning": "依赖",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of dependence.",
+    "exampleTranslation": "这篇文章探讨了依赖这一概念。"
+  },
+  {
+    "id": 56,
+    "word": "diversity",
+    "phonetic": "",
+    "meaning": "多样性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of diversity.",
+    "exampleTranslation": "这篇文章探讨了多样性这一概念。"
+  },
+  {
+    "id": 57,
+    "word": "efficiency",
+    "phonetic": "",
+    "meaning": "效率",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of efficiency.",
+    "exampleTranslation": "这篇文章探讨了效率这一概念。"
+  },
+  {
+    "id": 58,
+    "word": "emphasis",
+    "phonetic": "",
+    "meaning": "强调；重点",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of emphasis.",
+    "exampleTranslation": "这篇文章探讨了强调这一概念。"
+  },
+  {
+    "id": 59,
+    "word": "encouragement",
+    "phonetic": "",
+    "meaning": "鼓励",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of encouragement.",
+    "exampleTranslation": "这篇文章探讨了鼓励这一概念。"
+  },
+  {
+    "id": 60,
+    "word": "environment",
+    "phonetic": "",
+    "meaning": "环境",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of environment.",
+    "exampleTranslation": "这篇文章探讨了环境这一概念。"
+  },
+  {
+    "id": 61,
+    "word": "equality",
+    "phonetic": "",
+    "meaning": "平等",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of equality.",
+    "exampleTranslation": "这篇文章探讨了平等这一概念。"
+  },
+  {
+    "id": 62,
+    "word": "evidence",
+    "phonetic": "",
+    "meaning": "证据",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of evidence.",
+    "exampleTranslation": "这篇文章探讨了证据这一概念。"
+  },
+  {
+    "id": 63,
+    "word": "exception",
+    "phonetic": "",
+    "meaning": "例外",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of exception.",
+    "exampleTranslation": "这篇文章探讨了例外这一概念。"
+  },
+  {
+    "id": 64,
+    "word": "expansion",
+    "phonetic": "",
+    "meaning": "扩张；扩大",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of expansion.",
+    "exampleTranslation": "这篇文章探讨了扩张这一概念。"
+  },
+  {
+    "id": 65,
+    "word": "expectation",
+    "phonetic": "",
+    "meaning": "期望",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of expectation.",
+    "exampleTranslation": "这篇文章探讨了期望这一概念。"
+  },
+  {
+    "id": 66,
+    "word": "explanation",
+    "phonetic": "",
+    "meaning": "解释",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of explanation.",
+    "exampleTranslation": "这篇文章探讨了解释这一概念。"
+  },
+  {
+    "id": 67,
+    "word": "exposure",
+    "phonetic": "",
+    "meaning": "接触；暴露",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of exposure.",
+    "exampleTranslation": "这篇文章探讨了接触这一概念。"
+  },
+  {
+    "id": 68,
+    "word": "flexibility",
+    "phonetic": "",
+    "meaning": "灵活性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of flexibility.",
+    "exampleTranslation": "这篇文章探讨了灵活性这一概念。"
+  },
+  {
+    "id": 69,
+    "word": "foundation",
+    "phonetic": "",
+    "meaning": "基础；基金会",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of foundation.",
+    "exampleTranslation": "这篇文章探讨了基础这一概念。"
+  },
+  {
+    "id": 70,
+    "word": "frequency",
+    "phonetic": "",
+    "meaning": "频率",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of frequency.",
+    "exampleTranslation": "这篇文章探讨了频率这一概念。"
+  },
+  {
+    "id": 71,
+    "word": "frustration",
+    "phonetic": "",
+    "meaning": "挫折；沮丧",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of frustration.",
+    "exampleTranslation": "这篇文章探讨了挫折这一概念。"
+  },
+  {
+    "id": 72,
+    "word": "generation",
+    "phonetic": "",
+    "meaning": "一代；产生",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of generation.",
+    "exampleTranslation": "这篇文章探讨了一代这一概念。"
+  },
+  {
+    "id": 73,
+    "word": "innovation",
+    "phonetic": "",
+    "meaning": "创新",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of innovation.",
+    "exampleTranslation": "这篇文章探讨了创新这一概念。"
+  },
+  {
+    "id": 74,
+    "word": "inspiration",
+    "phonetic": "",
+    "meaning": "灵感；鼓舞",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of inspiration.",
+    "exampleTranslation": "这篇文章探讨了灵感这一概念。"
+  },
+  {
+    "id": 75,
+    "word": "integrity",
+    "phonetic": "",
+    "meaning": "正直；完整性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of integrity.",
+    "exampleTranslation": "这篇文章探讨了正直这一概念。"
+  },
+  {
+    "id": 76,
+    "word": "intention",
+    "phonetic": "",
+    "meaning": "意图",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of intention.",
+    "exampleTranslation": "这篇文章探讨了意图这一概念。"
+  },
+  {
+    "id": 77,
+    "word": "interaction",
+    "phonetic": "",
+    "meaning": "互动；相互作用",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of interaction.",
+    "exampleTranslation": "这篇文章探讨了互动这一概念。"
+  },
+  {
+    "id": 78,
+    "word": "interpretation",
+    "phonetic": "",
+    "meaning": "解释；诠释",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of interpretation.",
+    "exampleTranslation": "这篇文章探讨了解释这一概念。"
+  },
+  {
+    "id": 79,
+    "word": "investigation",
+    "phonetic": "",
+    "meaning": "调查",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of investigation.",
+    "exampleTranslation": "这篇文章探讨了调查这一概念。"
+  },
+  {
+    "id": 80,
+    "word": "limitation",
+    "phonetic": "",
+    "meaning": "局限；限制",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of limitation.",
+    "exampleTranslation": "这篇文章探讨了局限这一概念。"
+  },
+  {
+    "id": 81,
+    "word": "maintenance",
+    "phonetic": "",
+    "meaning": "维护",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of maintenance.",
+    "exampleTranslation": "这篇文章探讨了维护这一概念。"
+  },
+  {
+    "id": 82,
+    "word": "motivation",
+    "phonetic": "",
+    "meaning": "动机；积极性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of motivation.",
+    "exampleTranslation": "这篇文章探讨了动机这一概念。"
+  },
+  {
+    "id": 83,
+    "word": "necessity",
+    "phonetic": "",
+    "meaning": "必要性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of necessity.",
+    "exampleTranslation": "这篇文章探讨了必要性这一概念。"
+  },
+  {
+    "id": 84,
+    "word": "observation",
+    "phonetic": "",
+    "meaning": "观察",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of observation.",
+    "exampleTranslation": "这篇文章探讨了观察这一概念。"
+  },
+  {
+    "id": 85,
+    "word": "opportunity",
+    "phonetic": "",
+    "meaning": "机会",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of opportunity.",
+    "exampleTranslation": "这篇文章探讨了机会这一概念。"
+  },
+  {
+    "id": 86,
+    "word": "participation",
+    "phonetic": "",
+    "meaning": "参与",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of participation.",
+    "exampleTranslation": "这篇文章探讨了参与这一概念。"
+  },
+  {
+    "id": 87,
+    "word": "perception",
+    "phonetic": "",
+    "meaning": "感知；看法",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of perception.",
+    "exampleTranslation": "这篇文章探讨了感知这一概念。"
+  },
+  {
+    "id": 88,
+    "word": "perspective",
+    "phonetic": "",
+    "meaning": "观点；视角",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of perspective.",
+    "exampleTranslation": "这篇文章探讨了观点这一概念。"
+  },
+  {
+    "id": 89,
+    "word": "phenomenon",
+    "phonetic": "",
+    "meaning": "现象",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of phenomenon.",
+    "exampleTranslation": "这篇文章探讨了现象这一概念。"
+  },
+  {
+    "id": 90,
+    "word": "potential",
+    "phonetic": "",
+    "meaning": "潜力；可能性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of potential.",
+    "exampleTranslation": "这篇文章探讨了潜力这一概念。"
+  },
+  {
+    "id": 91,
+    "word": "priority",
+    "phonetic": "",
+    "meaning": "优先事项",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of priority.",
+    "exampleTranslation": "这篇文章探讨了优先事项这一概念。"
+  },
+  {
+    "id": 92,
+    "word": "procedure",
+    "phonetic": "",
+    "meaning": "程序；步骤",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of procedure.",
+    "exampleTranslation": "这篇文章探讨了程序这一概念。"
+  },
+  {
+    "id": 93,
+    "word": "productivity",
+    "phonetic": "",
+    "meaning": "生产力",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of productivity.",
+    "exampleTranslation": "这篇文章探讨了生产力这一概念。"
+  },
+  {
+    "id": 94,
+    "word": "proportion",
+    "phonetic": "",
+    "meaning": "比例",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of proportion.",
+    "exampleTranslation": "这篇文章探讨了比例这一概念。"
+  },
+  {
+    "id": 95,
+    "word": "recognition",
+    "phonetic": "",
+    "meaning": "认可；识别",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of recognition.",
+    "exampleTranslation": "这篇文章探讨了认可这一概念。"
+  },
+  {
+    "id": 96,
+    "word": "recommendation",
+    "phonetic": "",
+    "meaning": "建议",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of recommendation.",
+    "exampleTranslation": "这篇文章探讨了建议这一概念。"
+  },
+  {
+    "id": 97,
+    "word": "recovery",
+    "phonetic": "",
+    "meaning": "恢复",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of recovery.",
+    "exampleTranslation": "这篇文章探讨了恢复这一概念。"
+  },
+  {
+    "id": 98,
+    "word": "relevance",
+    "phonetic": "",
+    "meaning": "相关性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of relevance.",
+    "exampleTranslation": "这篇文章探讨了相关性这一概念。"
+  },
+  {
+    "id": 99,
+    "word": "reliability",
+    "phonetic": "",
+    "meaning": "可靠性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of reliability.",
+    "exampleTranslation": "这篇文章探讨了可靠性这一概念。"
+  },
+  {
+    "id": 100,
+    "word": "requirement",
+    "phonetic": "",
+    "meaning": "要求；必要条件",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of requirement.",
+    "exampleTranslation": "这篇文章探讨了要求这一概念。"
+  },
+  {
+    "id": 101,
+    "word": "resilience",
+    "phonetic": "",
+    "meaning": "韧性；恢复力",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of resilience.",
+    "exampleTranslation": "这篇文章探讨了韧性这一概念。"
+  },
+  {
+    "id": 102,
+    "word": "responsibility",
+    "phonetic": "",
+    "meaning": "责任",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of responsibility.",
+    "exampleTranslation": "这篇文章探讨了责任这一概念。"
+  },
+  {
+    "id": 103,
+    "word": "restriction",
+    "phonetic": "",
+    "meaning": "限制；约束",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of restriction.",
+    "exampleTranslation": "这篇文章探讨了限制这一概念。"
+  },
+  {
+    "id": 104,
+    "word": "significance",
+    "phonetic": "",
+    "meaning": "重要性；意义",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of significance.",
+    "exampleTranslation": "这篇文章探讨了重要性这一概念。"
+  },
+  {
+    "id": 105,
+    "word": "strategy",
+    "phonetic": "",
+    "meaning": "策略",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of strategy.",
+    "exampleTranslation": "这篇文章探讨了策略这一概念。"
+  },
+  {
+    "id": 106,
+    "word": "structure",
+    "phonetic": "",
+    "meaning": "结构",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of structure.",
+    "exampleTranslation": "这篇文章探讨了结构这一概念。"
+  },
+  {
+    "id": 107,
+    "word": "substitution",
+    "phonetic": "",
+    "meaning": "替代",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of substitution.",
+    "exampleTranslation": "这篇文章探讨了替代这一概念。"
+  },
+  {
+    "id": 108,
+    "word": "sustainability",
+    "phonetic": "",
+    "meaning": "可持续性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of sustainability.",
+    "exampleTranslation": "这篇文章探讨了可持续性这一概念。"
+  },
+  {
+    "id": 109,
+    "word": "tendency",
+    "phonetic": "",
+    "meaning": "倾向；趋势",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of tendency.",
+    "exampleTranslation": "这篇文章探讨了倾向这一概念。"
+  },
+  {
+    "id": 110,
+    "word": "tolerance",
+    "phonetic": "",
+    "meaning": "宽容；耐受性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of tolerance.",
+    "exampleTranslation": "这篇文章探讨了宽容这一概念。"
+  },
+  {
+    "id": 111,
+    "word": "transition",
+    "phonetic": "",
+    "meaning": "过渡；转变",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of transition.",
+    "exampleTranslation": "这篇文章探讨了过渡这一概念。"
+  },
+  {
+    "id": 112,
+    "word": "uncertainty",
+    "phonetic": "",
+    "meaning": "不确定性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of uncertainty.",
+    "exampleTranslation": "这篇文章探讨了不确定性这一概念。"
+  },
+  {
+    "id": 113,
+    "word": "variation",
+    "phonetic": "",
+    "meaning": "变化；变体",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of variation.",
+    "exampleTranslation": "这篇文章探讨了变化这一概念。"
+  },
+  {
+    "id": 114,
+    "word": "vulnerability",
+    "phonetic": "",
+    "meaning": "脆弱性",
+    "partOfSpeech": "n.",
+    "example": "The article discusses the concept of vulnerability.",
+    "exampleTranslation": "这篇文章探讨了脆弱性这一概念。"
+  },
+  {
+    "id": 115,
+    "word": "substantial",
+    "phonetic": "/səbˈstænʃəl/",
+    "meaning": "大量的；实质性的",
+    "partOfSpeech": "adj.",
+    "example": "There is substantial evidence supporting the conclusion.",
+    "exampleTranslation": "有大量证据支持这一结论。"
+  }
+]
